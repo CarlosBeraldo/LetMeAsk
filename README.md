@@ -8,7 +8,7 @@
 
 <br>
 
-## 🧪 Tecnologias
+##Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Como executar
+##Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
 
@@ -36,14 +36,14 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
 
-## 💻 Projeto
+##Projeto
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
 
-## 🔖 Layout
+##Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
@@ -51,7 +51,7 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
-## 📝 License
+##License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
